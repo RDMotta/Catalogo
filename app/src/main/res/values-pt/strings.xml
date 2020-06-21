@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Catálogo</string>
+
+    <string name="action_settings">Configurações</string>
+    <string name="action_location">Localização</string>
+    <string name="navigation_drawer_open">Abrir menu drawer</string>>
+    <string name="navigation_drawer_close">Fechar menu drawer</string>
+</resources>

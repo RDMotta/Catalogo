@@ -1,0 +1,14 @@
+
+<android.support.design.widget.NavigationView
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:id="@+id/navigation_view"
+android:layout_width="wrap_content"
+android:layout_height="match_parent"
+android:layout_gravity="start"
+android:fitsSystemWindows="@bool/fitsSystemWindows"
+app:headerLayout="@layout/navigation_drawer_header"
+app:menu="@menu/menu_drawer"
+app:theme="@style/NavigationViewTheme"
+tools:context=".NavigationDrawerFragment"/>
